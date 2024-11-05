@@ -48,4 +48,4 @@ Sou apaixonado por **Engenharia de dados** e adoro explorar novas tecnologias e 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Alouco&show_icons=true&theme=dracula&count_private=true)
 ---
 
-🔗 [LinkedIn]https://www.linkedin.com/in/aluizio-f-61742ab2/) • [GitHub](https://github.com/Alouco)
+🔗 [LinkedIn](https://www.linkedin.com/in/aluizio-f-61742ab2/) • [GitHub](https://github.com/Alouco)
